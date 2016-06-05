@@ -20,6 +20,7 @@ module.exports = function(config) {
         'bower_components/angular-resource/angular-resource.js',
         'bower_components/angular-mocks/angular-mocks.js',
         'bower_components/jasmine-jquery/lib/jasmine-jquery.js',
+        'angular/app.js',
       'angular/*.js',
       'test/angular/*Spec.js',
       'test/angular/JSONFixtures/*.json'
